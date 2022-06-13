@@ -4,7 +4,7 @@ Knowledge Enhanced Pre-trained Models
 - [Syntax-aware models](#syntax-aware)
 - [Trees](#semantically-aware)
 - [Grounding](#grounding)
-- [Knowledge retrieval](#knowledge retrieval)
+- [Knowledge retrieval](#knowledge_retrieval)
 
  ## Syntax-aware
  - [Syntax-BERT: Improving Pre-trained Transformers with Syntax Trees](https://arxiv.org/abs/2103.04350)
@@ -17,6 +17,8 @@ Knowledge Enhanced Pre-trained Models
  ## Grounding
  - [Knowledge Enhanced Contextual Word Representations](https://arxiv.org/abs/1909.04164)
  - [ERNIE: Enhanced Language Representation with Informative Entities](https://arxiv.org/abs/1905.07129)
+ - [Multi-Modal Dynamic Graph Transformer for Visual Grounding](https://iqua.ece.toronto.edu/papers/schen-cvpr22.pdf)
+ - [Attention Bottlenecks for Multimodal Fusion](https://arxiv.org/pdf/2107.00135.pdf)
  
  ## Knowledge retrieval
  - [Enhancing Pre-Trained Language Representations with Rich Knowledge for Machine Reading Comprehension](https://aclanthology.org/P19-1226/)
