@@ -22,7 +22,6 @@ Knowledge Enhanced Pre-trained Models
  - [Enhancing Pre-Trained Language Representations with Rich Knowledge for Machine Reading Comprehension](https://aclanthology.org/P19-1226/)
  - [Barack's Wife Hillary: Using Knowledge-Graphs for Fact-Aware Language Modeling](https://arxiv.org/abs/1906.07241)
  - [Graph-Based Reasoning over Heterogeneous External Knowledge for Commonsense Question Answering](https://arxiv.org/abs/1909.05311)
- https://github.com/DecstionBack/AAAI_2020_CommonsenseQA
  - [Language Generation with Multi-Hop Reasoning on Commonsense Knowledge Graph](https://aclanthology.org/2020.emnlp-main.54.pdf)
  - [KG-BART: Knowledge Graph-Augmented BART for Generative Commonsense Reasoning](https://arxiv.org/abs/2009.12677)
  - [REALM: Retrieval-Augmented Language Model Pre-Training](https://arxiv.org/abs/2002.08909)
