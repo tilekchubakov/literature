@@ -17,6 +17,8 @@ Knowledge Enhanced Pre-trained Models
  ## Grounding
  - [Knowledge Enhanced Contextual Word Representations](https://arxiv.org/abs/1909.04164)
  - [ERNIE: Enhanced Language Representation with Informative Entities](https://arxiv.org/abs/1905.07129)
+
+ ## Multi-modal
  - [Multi-Modal Dynamic Graph Transformer for Visual Grounding](https://iqua.ece.toronto.edu/papers/schen-cvpr22.pdf)
  - [Attention Bottlenecks for Multimodal Fusion](https://arxiv.org/pdf/2107.00135.pdf)
  
