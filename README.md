@@ -30,5 +30,9 @@
  - [KG-BART: Knowledge Graph-Augmented BART for Generative Commonsense Reasoning](https://arxiv.org/abs/2009.12677)
  - [REALM: Retrieval-Augmented Language Model Pre-Training](https://arxiv.org/abs/2002.08909)
  - [Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks](https://arxiv.org/abs/2005.11401)
+
+## Neuro-symbolic
+ - [Neuro-Symbolic Visual Reasoning: Disentangling “Visual” from “Reasoning”]([https://aclanthology.org/P19-1226/](https://arxiv.org/pdf/2006.11524.pdf))
+
  
  
